@@ -1,0 +1,10 @@
+{
+	"short_name": "Omogomigen",
+	"description": "Get recurring tasks done in time",
+	"display": "standalone",
+	"icons": [{
+			"src": "favicon.ico",
+			"type": "image/png",
+			"sizes": "96x96"
+	}]
+}

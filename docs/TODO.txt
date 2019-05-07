@@ -1,0 +1,22 @@
+﻿*	Fix rest of TODOs in source code
+
+*	Remove preamble from Tag.render
+
+*	Log:
+	"Delete log older than x months"
+	- x is a command line argument
+	- Do vacuum (sqlite) after delete
+
+*	Show VERSION somewhere?
+
+*	Sign out from identity -> delete cookie
+
+*	Should newtask/edittask/deletetask/deletelog be added to log?
+	- Include data?
+	- Creates a problem with current log name sort
+
+*	Total commenting on all source code
+
+*	Uniform coding style
+	- Pythonic
+	- Uniform multiline/indentation of Tag/TagE
